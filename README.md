@@ -1,2 +1,2 @@
-# codee
+# konnect
 Social Media App
